@@ -72,21 +72,21 @@ Incorporate viewing history
 Add user preference learning
 
 
-Advanced ML Techniques
+Advanced ML Techniques:-
 
 Implement collaborative filtering
 Add matrix factorization
 Integrate neural networks
 
 
-Enhanced NLP Features
+Enhanced NLP Features:-
 
 Sentiment analysis
 Entity recognition
 Topic modeling
 
 
-Context-Aware Recommendations
+Context-Aware Recommendations:-
 
 Time-based suggestions
 Location-aware recommendations
